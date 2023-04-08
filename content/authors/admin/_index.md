@@ -73,5 +73,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Я учусь в Российском Университете Дружбы Народов по направлению "Фундаментальная информатика и информационные технологии" с 2022 года, заинтересовался программированием в 11 классе, и понял, что ни одна профессия не была мне так близка. Люблю математику, хотя она меня не очень. Настойчив в стремлении к желаемому результату, отзывчив, любопытен, ответственен. Плохо умею рассчитывать силы (не давайте мне вагон работы если я попрошу), обладаю дырявой памятью (напомните поставить напоминание), по комфортному климату напоминаю кактус.
 {style="text-align: justify;"}
